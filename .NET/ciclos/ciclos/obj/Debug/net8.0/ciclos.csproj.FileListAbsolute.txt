@@ -1,0 +1,14 @@
+C:\Users\santiago\Desktop\Programacion\trimestre 5\calculadora\ciclos\ciclos\bin\Debug\net8.0\ciclos.exe
+C:\Users\santiago\Desktop\Programacion\trimestre 5\calculadora\ciclos\ciclos\bin\Debug\net8.0\ciclos.deps.json
+C:\Users\santiago\Desktop\Programacion\trimestre 5\calculadora\ciclos\ciclos\bin\Debug\net8.0\ciclos.runtimeconfig.json
+C:\Users\santiago\Desktop\Programacion\trimestre 5\calculadora\ciclos\ciclos\bin\Debug\net8.0\ciclos.dll
+C:\Users\santiago\Desktop\Programacion\trimestre 5\calculadora\ciclos\ciclos\bin\Debug\net8.0\ciclos.pdb
+C:\Users\santiago\Desktop\Programacion\trimestre 5\calculadora\ciclos\ciclos\obj\Debug\net8.0\ciclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santiago\Desktop\Programacion\trimestre 5\calculadora\ciclos\ciclos\obj\Debug\net8.0\ciclos.AssemblyInfoInputs.cache
+C:\Users\santiago\Desktop\Programacion\trimestre 5\calculadora\ciclos\ciclos\obj\Debug\net8.0\ciclos.AssemblyInfo.cs
+C:\Users\santiago\Desktop\Programacion\trimestre 5\calculadora\ciclos\ciclos\obj\Debug\net8.0\ciclos.csproj.CoreCompileInputs.cache
+C:\Users\santiago\Desktop\Programacion\trimestre 5\calculadora\ciclos\ciclos\obj\Debug\net8.0\ciclos.dll
+C:\Users\santiago\Desktop\Programacion\trimestre 5\calculadora\ciclos\ciclos\obj\Debug\net8.0\refint\ciclos.dll
+C:\Users\santiago\Desktop\Programacion\trimestre 5\calculadora\ciclos\ciclos\obj\Debug\net8.0\ciclos.pdb
+C:\Users\santiago\Desktop\Programacion\trimestre 5\calculadora\ciclos\ciclos\obj\Debug\net8.0\ciclos.genruntimeconfig.cache
+C:\Users\santiago\Desktop\Programacion\trimestre 5\calculadora\ciclos\ciclos\obj\Debug\net8.0\ref\ciclos.dll
