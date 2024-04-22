@@ -47,7 +47,7 @@ void main() {
 
   final masnumeros = List.generate(1000000, (int index) => index);
   print(masnumeros);
-  */
+ 
   
   List<String> Mujeres = [];
   List<String> Hombres = [];
@@ -69,5 +69,19 @@ void main() {
     }
   }
       print("las mujeres: $Mujeres \n \n y los hombres son: $Hombres");
+       */
+
+
+List<String> nombres=[];
+nombres.add("Maria");
+nombres.add("Andres");
+nombres.add("Carmen");
+
+for (int i=0;i<nombres.length;i++) {
+  print("El elemento ${i+1} es ${nombres[i].toLowerCase()}");
+}
+print(nombres.reversed);
+nombres.sort();
+print(nombres);
 }
 
