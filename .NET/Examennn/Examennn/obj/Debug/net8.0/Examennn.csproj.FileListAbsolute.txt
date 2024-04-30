@@ -1,0 +1,15 @@
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\Examennn\Examennn\obj\Debug\net8.0\Examennn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\Examennn\Examennn\obj\Debug\net8.0\Examennn.AssemblyInfoInputs.cache
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\Examennn\Examennn\obj\Debug\net8.0\Examennn.AssemblyInfo.cs
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\Examennn\Examennn\obj\Debug\net8.0\Examennn.csproj.CoreCompileInputs.cache
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\Examennn\Examennn\obj\Debug\net8.0\Examennn.sourcelink.json
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\Examennn\Examennn\bin\Debug\net8.0\Examennn.exe
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\Examennn\Examennn\bin\Debug\net8.0\Examennn.deps.json
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\Examennn\Examennn\bin\Debug\net8.0\Examennn.runtimeconfig.json
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\Examennn\Examennn\bin\Debug\net8.0\Examennn.dll
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\Examennn\Examennn\bin\Debug\net8.0\Examennn.pdb
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\Examennn\Examennn\obj\Debug\net8.0\Examennn.dll
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\Examennn\Examennn\obj\Debug\net8.0\refint\Examennn.dll
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\Examennn\Examennn\obj\Debug\net8.0\Examennn.pdb
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\Examennn\Examennn\obj\Debug\net8.0\Examennn.genruntimeconfig.cache
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\Examennn\Examennn\obj\Debug\net8.0\ref\Examennn.dll

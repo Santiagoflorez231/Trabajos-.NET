@@ -1,0 +1,15 @@
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\EjemploArrays\EjemploArrays\bin\Debug\net8.0\EjemploArrays.exe
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\EjemploArrays\EjemploArrays\bin\Debug\net8.0\EjemploArrays.deps.json
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\EjemploArrays\EjemploArrays\bin\Debug\net8.0\EjemploArrays.runtimeconfig.json
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\EjemploArrays\EjemploArrays\bin\Debug\net8.0\EjemploArrays.dll
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\EjemploArrays\EjemploArrays\bin\Debug\net8.0\EjemploArrays.pdb
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\EjemploArrays\EjemploArrays\obj\Debug\net8.0\EjemploArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\EjemploArrays\EjemploArrays\obj\Debug\net8.0\EjemploArrays.AssemblyInfoInputs.cache
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\EjemploArrays\EjemploArrays\obj\Debug\net8.0\EjemploArrays.AssemblyInfo.cs
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\EjemploArrays\EjemploArrays\obj\Debug\net8.0\EjemploArrays.csproj.CoreCompileInputs.cache
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\EjemploArrays\EjemploArrays\obj\Debug\net8.0\EjemploArrays.sourcelink.json
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\EjemploArrays\EjemploArrays\obj\Debug\net8.0\EjemploArrays.dll
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\EjemploArrays\EjemploArrays\obj\Debug\net8.0\refint\EjemploArrays.dll
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\EjemploArrays\EjemploArrays\obj\Debug\net8.0\EjemploArrays.pdb
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\EjemploArrays\EjemploArrays\obj\Debug\net8.0\EjemploArrays.genruntimeconfig.cache
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\EjemploArrays\EjemploArrays\obj\Debug\net8.0\ref\EjemploArrays.dll

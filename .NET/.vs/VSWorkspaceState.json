@@ -1,9 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Calculadora",
+    "\\Calculadora\\Calculadora",
+    "\\ciclos",
+    "\\ciclos\\ciclos",
+    "\\EjemploArrays",
+    "\\EjemploArrays\\EjemploArrays",
     "\\EjemploStrings",
     "\\EjemploStrings\\EjemploStrings"
   ],
-  "SelectedNode": "\\EjemploStrings\\EjemploStrings\\Program.cs",
+  "SelectedNode": "\\Calculadora\\Calculadora\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
