@@ -35,7 +35,6 @@ Un avance es cuando el cliente solicita dinero en efectivo el cual se
 resta del valor del crédito.
 */
 
-
 class main
 {
     static void Main()
@@ -44,6 +43,7 @@ class main
 
         while (true)
         {
+
             int opcion = 0;
             while (true)
             {
@@ -53,9 +53,10 @@ class main
                 Console.WriteLine("2. Realizar avances");
                 Console.WriteLine("3. Pagar credito");
                 Console.WriteLine("4. Consultar cupo Credito y valor por pagar");
-                Console.WriteLine("5. Consultar total puntos");
-                Console.WriteLine("6. Salir");
-
+                Console.WriteLine("5. Consultar puntos");
+                Console.WriteLine("6. condonar deuda");
+                Console.WriteLine("7. Salir");
+                opcion = int.Parse(Console.ReadLine());
                 switch (opcion)
                 {
                     case 1:
@@ -81,6 +82,13 @@ class main
                         Console.WriteLine("Total Puntos acumulados: " + credito.TotalPuntos);
                         break;
                     case 6:
+                        Console.WriteLine("digite el porcentaje a condonar");
+                        double valorCondonar = Convert.ToDouble(Console.ReadLine());
+                        credito.Condonar(valorCondonar);
+                        break;
+
+
+                    case 7:
                         Environment.Exit(0);
                         break;
                 }
@@ -93,18 +101,18 @@ class main
 
 class Credito
 {
-    protected double cupo = 1000000 ;
-    protected double Saldopagar = 0;
-    protected double Puntos = 0;
+    private double cupo = 1000000;
+    private double saldoPagar = 0;
+    private double puntos = 0;
     public double CupoCredito { get { return cupo; } }
-    public double SaldoPagar { get { return SaldoPagar; } }
-    public double TotalPuntos { get { return Puntos; } }
+    public double SaldoPagar { get { return saldoPagar; } }
+    public double TotalPuntos { get { return puntos; } }
 
     public Credito(double cupoCredito)
     {
         cupo = cupoCredito;
-        Saldopagar = 0;
-        Puntos = 0;
+        saldoPagar = 0;
+        puntos = 0;
     }
     public void RegistrarCompra(double valorCompra)
     {
@@ -113,26 +121,25 @@ class Credito
             Console.WriteLine("El valor de la compra es inválido");
             return;
         }
-        Saldopagar += valorCompra;
+        saldoPagar += valorCompra;
         if (valorCompra >= 100000)
         {
-            Puntos += valorCompra * 0.01;
+            puntos += valorCompra * 0.01;
         }
         else
         {
-            Puntos += 0;
+            puntos += 0;
         }
         Console.WriteLine("Compra registrada exitosamente");
     }
     public void RealizarAvance(double valorAvance)
     {
-        if (valorAvance > cupo - Saldopagar || valorAvance <= 0)
+        if (valorAvance > cupo - saldoPagar || valorAvance <= 0)
         {
             Console.WriteLine("El valor del avance es inválido");
             return;
         }
-
-        Saldopagar += valorAvance;
+        saldoPagar += valorAvance;
         Console.WriteLine("Avance realizado exitosamente");
     }
     public void PagarCredito(double valorPago)
@@ -142,9 +149,19 @@ class Credito
             Console.WriteLine("El valor a pagar es inválido");
             return;
         }
-
-        Saldopagar -= valorPago;
+        saldoPagar -= valorPago;
         Console.WriteLine("Pago realizado exitosamente");
+    }
+    public void Condonar(double valorcondonar)
+    {
+        Console.WriteLine($"deuda actual: {saldoPagar}");
+        if (valorcondonar <0 || valorcondonar >100)
+        {
+            Console.WriteLine("porcentaje invalido");
+            return ;
+        }
+            saldoPagar -= saldoPagar *(valorcondonar/100);
+            Console.WriteLine($"Se ha hecho el cambio. saldo debiente actual: {saldoPagar}");
     }
 }
 

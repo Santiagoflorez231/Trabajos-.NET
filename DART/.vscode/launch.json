@@ -9,7 +9,7 @@
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart",
-            "program": "ejemplosPOO.dart",
+            "program": "examenbanco.dart",
             "console": "terminal"
         }
     ]

@@ -1,0 +1,15 @@
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\archivosplanos\archivosplanos\obj\Debug\net8.0\archivosplanos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\archivosplanos\archivosplanos\obj\Debug\net8.0\archivosplanos.AssemblyInfoInputs.cache
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\archivosplanos\archivosplanos\obj\Debug\net8.0\archivosplanos.AssemblyInfo.cs
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\archivosplanos\archivosplanos\obj\Debug\net8.0\archivosplanos.csproj.CoreCompileInputs.cache
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\archivosplanos\archivosplanos\obj\Debug\net8.0\archivosplanos.sourcelink.json
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\archivosplanos\archivosplanos\bin\Debug\net8.0\archivosplanos.exe
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\archivosplanos\archivosplanos\bin\Debug\net8.0\archivosplanos.deps.json
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\archivosplanos\archivosplanos\bin\Debug\net8.0\archivosplanos.runtimeconfig.json
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\archivosplanos\archivosplanos\bin\Debug\net8.0\archivosplanos.dll
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\archivosplanos\archivosplanos\bin\Debug\net8.0\archivosplanos.pdb
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\archivosplanos\archivosplanos\obj\Debug\net8.0\archivosplanos.dll
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\archivosplanos\archivosplanos\obj\Debug\net8.0\refint\archivosplanos.dll
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\archivosplanos\archivosplanos\obj\Debug\net8.0\archivosplanos.pdb
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\archivosplanos\archivosplanos\obj\Debug\net8.0\archivosplanos.genruntimeconfig.cache
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\archivosplanos\archivosplanos\obj\Debug\net8.0\ref\archivosplanos.dll
