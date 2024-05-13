@@ -1,0 +1,8 @@
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\API_SEGUNDO\API_SEGUNDO\obj\Debug\net8.0\API_SEGUNDO.csproj.AssemblyReference.cache
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\API_SEGUNDO\API_SEGUNDO\obj\Debug\net8.0\API_SEGUNDO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\API_SEGUNDO\API_SEGUNDO\obj\Debug\net8.0\API_SEGUNDO.AssemblyInfoInputs.cache
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\API_SEGUNDO\API_SEGUNDO\obj\Debug\net8.0\API_SEGUNDO.AssemblyInfo.cs
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\API_SEGUNDO\API_SEGUNDO\obj\Debug\net8.0\API_SEGUNDO.csproj.CoreCompileInputs.cache
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\API_SEGUNDO\API_SEGUNDO\obj\Debug\net8.0\API_SEGUNDO.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\API_SEGUNDO\API_SEGUNDO\obj\Debug\net8.0\API_SEGUNDO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\API_SEGUNDO\API_SEGUNDO\obj\Debug\net8.0\API_SEGUNDO.sourcelink.json

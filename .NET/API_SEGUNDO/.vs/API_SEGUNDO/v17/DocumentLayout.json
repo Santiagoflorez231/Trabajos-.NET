@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\santiago\\Desktop\\Programacion\\trimestre 5\\Trabajos-.NET\\.NET\\API_SEGUNDO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B043D772-C566-4CC8-AA5B-06A2A18EFE42}|API_SEGUNDO\\API_SEGUNDO.csproj|c:\\users\\santiago\\desktop\\programacion\\trimestre 5\\trabajos-.net\\.net\\api_segundo\\api_segundo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B043D772-C566-4CC8-AA5B-06A2A18EFE42}|API_SEGUNDO\\API_SEGUNDO.csproj|solutionrelative:api_segundo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B043D772-C566-4CC8-AA5B-06A2A18EFE42}|API_SEGUNDO\\API_SEGUNDO.csproj|c:\\users\\santiago\\desktop\\programacion\\trimestre 5\\trabajos-.net\\.net\\api_segundo\\api_segundo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B043D772-C566-4CC8-AA5B-06A2A18EFE42}|API_SEGUNDO\\API_SEGUNDO.csproj|solutionrelative:api_segundo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B043D772-C566-4CC8-AA5B-06A2A18EFE42}|API_SEGUNDO\\API_SEGUNDO.csproj|c:\\users\\santiago\\desktop\\programacion\\trimestre 5\\trabajos-.net\\.net\\api_segundo\\api_segundo\\models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B043D772-C566-4CC8-AA5B-06A2A18EFE42}|API_SEGUNDO\\API_SEGUNDO.csproj|solutionrelative:api_segundo\\models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B043D772-C566-4CC8-AA5B-06A2A18EFE42}|API_SEGUNDO\\API_SEGUNDO.csproj|c:\\users\\santiago\\desktop\\programacion\\trimestre 5\\trabajos-.net\\.net\\api_segundo\\api_segundo\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B043D772-C566-4CC8-AA5B-06A2A18EFE42}|API_SEGUNDO\\API_SEGUNDO.csproj|solutionrelative:api_segundo\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B043D772-C566-4CC8-AA5B-06A2A18EFE42}|API_SEGUNDO\\API_SEGUNDO.csproj|c:\\users\\santiago\\desktop\\programacion\\trimestre 5\\trabajos-.net\\.net\\api_segundo\\api_segundo\\controllers\\vehiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B043D772-C566-4CC8-AA5B-06A2A18EFE42}|API_SEGUNDO\\API_SEGUNDO.csproj|solutionrelative:api_segundo\\controllers\\vehiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B043D772-C566-4CC8-AA5B-06A2A18EFE42}|API_SEGUNDO\\API_SEGUNDO.csproj|c:\\users\\santiago\\desktop\\programacion\\trimestre 5\\trabajos-.net\\.net\\api_segundo\\api_segundo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B043D772-C566-4CC8-AA5B-06A2A18EFE42}|API_SEGUNDO\\API_SEGUNDO.csproj|solutionrelative:api_segundo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B043D772-C566-4CC8-AA5B-06A2A18EFE42}|API_SEGUNDO\\API_SEGUNDO.csproj|c:\\users\\santiago\\desktop\\programacion\\trimestre 5\\trabajos-.net\\.net\\api_segundo\\api_segundo\\api_segundo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B043D772-C566-4CC8-AA5B-06A2A18EFE42}|API_SEGUNDO\\API_SEGUNDO.csproj|solutionrelative:api_segundo\\api_segundo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\santiago\\Desktop\\Programacion\\trimestre 5\\Trabajos-.NET\\.NET\\API_SEGUNDO\\API_SEGUNDO\\Models\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "API_SEGUNDO\\Models\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\santiago\\Desktop\\Programacion\\trimestre 5\\Trabajos-.NET\\.NET\\API_SEGUNDO\\API_SEGUNDO\\Models\\Vehiculo.cs",
+              "RelativeToolTip": "API_SEGUNDO\\Models\\Vehiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:37:15.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\santiago\\Desktop\\Programacion\\trimestre 5\\Trabajos-.NET\\.NET\\API_SEGUNDO\\API_SEGUNDO\\Program.cs",
+              "RelativeDocumentMoniker": "API_SEGUNDO\\Program.cs",
+              "ToolTip": "C:\\Users\\santiago\\Desktop\\Programacion\\trimestre 5\\Trabajos-.NET\\.NET\\API_SEGUNDO\\API_SEGUNDO\\Program.cs",
+              "RelativeToolTip": "API_SEGUNDO\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:47:01.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\santiago\\Desktop\\Programacion\\trimestre 5\\Trabajos-.NET\\.NET\\API_SEGUNDO\\API_SEGUNDO\\appsettings.json",
+              "RelativeDocumentMoniker": "API_SEGUNDO\\appsettings.json",
+              "ToolTip": "C:\\Users\\santiago\\Desktop\\Programacion\\trimestre 5\\Trabajos-.NET\\.NET\\API_SEGUNDO\\API_SEGUNDO\\appsettings.json",
+              "RelativeToolTip": "API_SEGUNDO\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T13:51:44.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\santiago\\Desktop\\Programacion\\trimestre 5\\Trabajos-.NET\\.NET\\API_SEGUNDO\\API_SEGUNDO\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API_SEGUNDO\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\santiago\\Desktop\\Programacion\\trimestre 5\\Trabajos-.NET\\.NET\\API_SEGUNDO\\API_SEGUNDO\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API_SEGUNDO\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T15:20:57.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "API_SEGUNDO.csproj",
+              "DocumentMoniker": "C:\\Users\\santiago\\Desktop\\Programacion\\trimestre 5\\Trabajos-.NET\\.NET\\API_SEGUNDO\\API_SEGUNDO\\API_SEGUNDO.csproj",
+              "RelativeDocumentMoniker": "API_SEGUNDO\\API_SEGUNDO.csproj",
+              "ToolTip": "C:\\Users\\santiago\\Desktop\\Programacion\\trimestre 5\\Trabajos-.NET\\.NET\\API_SEGUNDO\\API_SEGUNDO\\API_SEGUNDO.csproj",
+              "RelativeToolTip": "API_SEGUNDO\\API_SEGUNDO.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T15:14:19.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VehiculoController.cs",
+              "DocumentMoniker": "C:\\Users\\santiago\\Desktop\\Programacion\\trimestre 5\\Trabajos-.NET\\.NET\\API_SEGUNDO\\API_SEGUNDO\\Controllers\\VehiculoController.cs",
+              "RelativeDocumentMoniker": "API_SEGUNDO\\Controllers\\VehiculoController.cs",
+              "ToolTip": "C:\\Users\\santiago\\Desktop\\Programacion\\trimestre 5\\Trabajos-.NET\\.NET\\API_SEGUNDO\\API_SEGUNDO\\Controllers\\VehiculoController.cs",
+              "RelativeToolTip": "API_SEGUNDO\\Controllers\\VehiculoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:46:22.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\santiago\\Desktop\\Programacion\\trimestre 5\\Trabajos-.NET\\.NET\\API_SEGUNDO\\API_SEGUNDO\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "API_SEGUNDO\\Data\\DbContext.cs",
+              "ToolTip": "C:\\Users\\santiago\\Desktop\\Programacion\\trimestre 5\\Trabajos-.NET\\.NET\\API_SEGUNDO\\API_SEGUNDO\\Data\\DbContext.cs",
+              "RelativeToolTip": "API_SEGUNDO\\Data\\DbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:28:30.93Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
