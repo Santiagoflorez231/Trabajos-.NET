@@ -1,4 +1,5 @@
 ﻿using Tabla_proyecto.Models;
+using Microsoft.EntityFrameworkCore;
 namespace Tabla_proyecto.Data
 {
    
@@ -9,6 +10,8 @@ namespace Tabla_proyecto.Data
             }
             public DbSet<Venta> Ventas { get; set; }
             public DbSet<Insumo> Insumos { get; set; }
+
+            public DbSet<Usuario> Usuarios { get; set; }
         }
     }
 
