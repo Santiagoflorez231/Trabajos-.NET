@@ -17,7 +17,7 @@ class _ContactoState extends State<Contacto> {
     final email = _emailcontroller.text;
     if (_formKey.currentState!.validate()) {
       ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(
+        const SnackBar(
           content: Text("formulario valido, pero que nombre tan feo"),
           backgroundColor: Colors.green,
          
@@ -33,17 +33,17 @@ class _ContactoState extends State<Contacto> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Text("Contacto"),
+          title: const Text("Contacto"),
         ),
         body: Padding(
-          padding: EdgeInsets.all(10),
+          padding: const EdgeInsets.all(10),
           child: Form(
               key: _formKey,
               child: Column(
                 children: [
                   TextFormField(
                     controller: _nombrecontroller,
-                    decoration: InputDecoration(labelText: "Digitar el nombre"),
+                    decoration: const InputDecoration(labelText: "Digitar el nombre"),
                     validator: (value) {
                       if (value == null || value.isEmpty) {
                         return 'Oiga sapo hpta usted no tiene nombre o que';
@@ -53,7 +53,7 @@ class _ContactoState extends State<Contacto> {
                   ),
                   TextFormField(
                     controller: _emailcontroller,
-                    decoration: InputDecoration(labelText: "Digite su email"),
+                    decoration: const InputDecoration(labelText: "Digite su email"),
                     validator: (value) {
                       if (value == null || value.isEmpty) {
                         return 'esta perra no aprende. DIGITA TU HPTA EMAIL';
@@ -64,10 +64,10 @@ class _ContactoState extends State<Contacto> {
                       return null;
                     },
                   ),
-                  SizedBox(height: 5),
+                  const SizedBox(height: 5),
                   ElevatedButton(onPressed: () {
                     enviarDatos();
-                  }, child: Text("enviar"))
+                  }, child: const Text("enviar"))
                 ],
               )),
         ));

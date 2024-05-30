@@ -105,3 +105,11 @@ C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\Tabla_proy
 C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\Tabla_proyecto\Tabla_proyecto\obj\Debug\net8.0\ref\Tabla_proyecto.dll
 C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\Tabla_proyecto\Tabla_proyecto\obj\Debug\net8.0\Tabla_proyecto.RazorAssemblyInfo.cache
 C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\Tabla_proyecto\Tabla_proyecto\obj\Debug\net8.0\Tabla_proyecto.RazorAssemblyInfo.cs
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\Tabla_proyecto\Tabla_proyecto\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\Tabla_proyecto\Tabla_proyecto\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\Tabla_proyecto\Tabla_proyecto\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\Tabla_proyecto\Tabla_proyecto\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\Tabla_proyecto\Tabla_proyecto\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\Tabla_proyecto\Tabla_proyecto\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\Tabla_proyecto\Tabla_proyecto\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\santiago\Desktop\Programacion\trimestre 5\Trabajos-.NET\.NET\Tabla_proyecto\Tabla_proyecto\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

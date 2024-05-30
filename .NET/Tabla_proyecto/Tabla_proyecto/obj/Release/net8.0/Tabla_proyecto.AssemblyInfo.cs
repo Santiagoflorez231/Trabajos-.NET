@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tabla_proyecto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d77167a5f1104a8832cbf6c562981874777d9df6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07fcdcda7f9c119cfdb11f73b9d7f05e60097fd7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tabla_proyecto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tabla_proyecto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
