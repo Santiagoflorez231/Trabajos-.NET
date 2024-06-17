@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Lista de Buscados</h1>
+        <p>Departamento de Policía</p>
+    </header>
+    
+    <div class="container">
+        <h2 class="wanted-title">Buscar por Tipo de Hurto, Departamento y Ciudad</h2>
+        <div class="search-box">
+            <select id="tipoHurto">
+                <option value="">Seleccione Tipo de Hurto</option>
+                <option value="HURTO AUTOMOTORES">HURTO AUTOMOTORES</option>
+                <option value="HURTO A PERSONAS">HURTO A PERSONAS</option>
+                <option value="HURTO A RESIDENCIAS">HURTO A RESIDENCIAS</option>
+                <option value="HURTO MOTOCICLETAS">HURTO DE MOTOCICLETAS</option>
+                <!-- Agrega más opciones según sea necesario -->
+            </select>
+            <select id="departamento">
+                <option value="">Seleccione Departamento</option>
+                <!-- Opciones se llenarán dinámicamente -->
+            </select>
+            <select id="municipio">
+                <option value="">Seleccione Municipio</option>
+            </select>
+            <button onclick="buscar()">Buscar</button>
+        </div>
+        
+        <table id="hurtoTable">
+            <thead>
+                <tr>
+                    <th>Departamento</th>
+                    <th>Municipio</th>
+                    <th>Cantidad</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </div>
+
+    <footer>
+        <p>Policía Nacional - Departamento de Investigaciones</p>
+    </footer>
+    
+        
+    <script src="script.js"></script>
+</body>
+</html>

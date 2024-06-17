@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestión de Pagos de Peaje</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 p-6">
+    <div class="container mx-auto">
+        <h1 class="text-3xl font-bold mb-6 text-center">Gestión de Pagos de Peaje</h1>
+
+        <form id="peajeForm" class="bg-white p-6 rounded-lg shadow-md mb-6">
+            <div class="mb-4">
+                <label for="placa" class="block text-gray-700">Placa:</label>
+                <input type="text" id="placa" name="placa" required class="w-full p-2 border border-gray-300 rounded mt-1">
+            </div>
+            
+            <div class="mb-4">
+                <label for="nombrePeaje" class="block text-gray-700">Nombre Peaje:</label>
+                <select id="nombrePeaje" name="nombrePeaje" required class="w-full p-2 border border-gray-300 rounded mt-1"></select>
+            </div>
+            
+            <div class="mb-4">
+                <label for="idCategoriaTarifa" class="block text-gray-700">Categoría Tarifa:</label>
+                <select id="idCategoriaTarifa" name="idCategoriaTarifa" required class="w-full p-2 border border-gray-300 rounded mt-1">
+                    <option value="I">I</option>
+                    <option value="II">II</option>
+                    <option value="III">III</option>
+                    <option value="IV">IV</option>
+                    <option value="V">V</option>
+                </select>
+            </div>
+
+            <div class="mb-4">
+                <label for="valor" class="block text-gray-700">Valor:</label>
+                <input type="text" id="valor" name="valor" readonly required class="w-full p-2 border border-gray-300 rounded mt-1">
+            </div>
+            
+            <div class="mb-4">
+                <label for="fechaRegistro" class="block text-gray-700">Fecha Registro:</label>
+                <input type="datetime-local" id="fechaRegistro" name="fechaRegistro" required class="w-full p-2 border border-gray-300 rounded mt-1">
+            </div>
+            
+            <button type="submit" class="w-full bg-blue-500 text-white p-2 rounded mt-4">Guardar</button>
+        </form>
+
+        <h2 class="text-2xl font-bold mb-4 text-center">Lista de Pagos</h2>
+        <div class="overflow-x-auto">
+            <table id="pagosTable" class="min-w-full bg-white rounded-lg shadow-md">
+                <thead>
+                    <tr>
+                        <th class="py-2 px-4 border-b">Placa</th>
+                        <th class="py-2 px-4 border-b">Nombre Peaje</th>
+                        <th class="py-2 px-4 border-b">Categoría Tarifa</th>
+                        <th class="py-2 px-4 border-b">Fecha Registro</th>
+                        <th class="py-2 px-4 border-b">Valor</th>
+                        <th class="py-2 px-4 border-b">Acciones</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
