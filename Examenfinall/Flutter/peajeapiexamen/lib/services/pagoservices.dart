@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import '../models/pago.dart';
 
 class PagoService {
-  static const String apiUrl = 'http://localhost:5182/api/Pagos';
+  static const String apiUrl = 'http://santiagoflorezzz-001-site1.ktempurl.com/api/Pagos';
 
   Future<List<Pago>> fetchPagos() async {
     final response = await http.get(Uri.parse(apiUrl));

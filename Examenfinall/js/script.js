@@ -1,4 +1,4 @@
-const apiBaseUrl = "http://localhost:5182/api/Pagos";
+const apiBaseUrl = "http://santiagoflorezzz-001-site1.ktempurl.com/api/Pagos";
 const externalApiUrl = "https://www.datos.gov.co/resource/7gj8-j6i3.json";
 
 document.addEventListener("DOMContentLoaded", () => {
@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
     try {
       const response = await fetch(externalApiUrl);
       const data = await response.json();
-      const peajes = [...new Set(data.map((item) => item.peaje))]; // Filtra nombres únicos de peaje
+      const peajes = [...new Set(data.map((item) => item.peaje))];
       nombrePeajeSelect.innerHTML = peajes
         .map((peaje) => `<option value="${peaje}">${peaje}</option>`)
         .join("");

@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:peajeapiexamen/screens/foto.dart';
 import 'package:peajeapiexamen/screens/inicio.dart';
+
 
 void main() {
   runApp(const MainApp());
@@ -20,3 +22,4 @@ class MainApp extends StatelessWidget {
     );
   }
 }
+
